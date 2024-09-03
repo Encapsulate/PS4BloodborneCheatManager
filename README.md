@@ -12,7 +12,7 @@ CUSA03173 - EUROPE (GOTY) <br />
 
 \[**TUTORIAL**] <br />
 ```
-RUN JAILBREAK... https://kmeps4.site/psfree900m/index.html 
+RUN JAILBREAK... (https://kmeps4.site/psfree900m/index.html)
 RUN GOLDHEN... GoldHEN (v2.4b16.2 (Latest)) - By SiSTRo 
 ```
 ```
