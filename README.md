@@ -3,12 +3,12 @@
 ## All Bloodborne Versions for CheatManager
 ### (Copied from CUSA03173's, credits below)
 
-CUSA00207 - Australia <br />
-CUSA00208 - United Kingdom <br />
-CUSA00900 - USA <br />
-CUSA01363 - Asia <br />
-CUSA03014 - Japan (The Old Hunters Edition) <br />
-CUSA03173 - EUROPE (GOTY) <br />
+<a href="https://serialstation.com/titles/CUSA/CUSA00207" target="_blank">CUSA00207</a> - Australia <br />
+<a href="https://serialstation.com/titles/CUSA/CUSA00208" target="_blank">CUSA00208</a> - United Kingdom <br />
+<a href="https://serialstation.com/titles/CUSA/CUSA00900" target="_blank">CUSA00900</a> - USA <br />
+<a href="https://serialstation.com/titles/CUSA/CUSA01363" target="_blank">CUSA01363</a> - Asia <br />
+<a href="https://serialstation.com/titles/CUSA/CUSA03014" target="_blank">CUSA03014</a> - Japan (The Old Hunters Edition) <br />
+<a href="https://serialstation.com/titles/CUSA/CUSA03173" target="_blank">CUSA03173</a> - EUROPE (GOTY) <br />
 
 \[**TUTORIAL**] <br />
 RUN JAILBREAK... <a href="https://kmeps4.site/psfree900m/index.html " target="_blank">KMEPS4</a> <br />
