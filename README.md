@@ -23,7 +23,7 @@ FILEZILLA > IP of Playstation 4 > PORT 2121
 (You can put all versions on your HDD if you want, in that case, use AIO folder I made for easy transfer)
 ```
 
-** Put the files in the according directories: ** <br />
+**Put the files in the according directories:** <br />
 \################################################################ <br />
 ```### /data/GoldHEN/cheats/shn:``` <br />
 **Australia**: <br />
