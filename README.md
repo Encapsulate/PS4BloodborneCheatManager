@@ -11,16 +11,16 @@ CUSA03014 - Japan (The Old Hunters Edition) <br />
 CUSA03173 - EUROPE (GOTY) <br />
 
 \[**TUTORIAL**] <br />
-RUN JAILBREAK... [KMEPS4](https://kmeps4.site/psfree900m/index.html)
-RUN GOLDHEN... GoldHEN (v2.4b16.2 (Latest)) - By SiSTRo 
+RUN JAILBREAK... [KMEPS4](https://kmeps4.site/psfree900m/index.html) <br />
+RUN GOLDHEN... GoldHEN (v2.4b16.2 (Latest)) - By SiSTRo <br />
 
-MAKE SURE YOU HAVE BLOODBORNE INSTALLED 
-MAKE SURE YOU HAVE [CHEATMANAGER INSTALLED](https://github.com/GoldHEN/GoldHEN_Cheat_Manager)
->> Run Cheat Manager and make sure you UPDATE FILES FROM SERVER (cheats & patches) 
+MAKE SURE YOU HAVE BLOODBORNE INSTALLED <br />
+MAKE SURE YOU HAVE [CHEATMANAGER INSTALLED](https://github.com/GoldHEN/GoldHEN_Cheat_Manager)<br />
+>> Run Cheat Manager and make sure you UPDATE FILES FROM SERVER (cheats & patches) <br />
 ```
 GOLDHEN > SERVERS SETTINGS > ENABLE FTP SERVER: 
 FILEZILLA > IP of Playstation 4 > PORT 2121 
-(You can put all versions on your HDD if you want, in that case, use AIO folder I made for easy transfer) <br />
+(You can put all versions on your HDD if you want, in that case, use AIO folder I made for easy transfer)
 ```
 
 ** Put the files in the according directories: ** <br />
