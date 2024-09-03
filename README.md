@@ -37,50 +37,50 @@ FILEZILLA > IP of Playstation 4 > PORT 2121
 <a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00208/shn/CUSA00208_01.09_2.shn" target="_blank">CUSA00208_01.09_2.shn</a> <br />
 
 **USA**: <br />
-CUSA00900_01.00.shn <br />
-CUSA00900_01.09.shn <br />
-CUSA00900_01.09_2.shn <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00900/shn/CUSA00900_01.00.shn" target="_blank">CUSA00900_01.00.shn</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00900/shn/CUSA00900_01.09.shn" target="_blank">CUSA00900_01.09.shn</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00900/shn/CUSA00900_01.09_2.shn" target="_blank">CUSA00900_01.09_2.shn</a> <br />
 
 **Asia**: <br />
-CUSA01363_01.00.shn <br />
-CUSA01363_01.09.shn <br />
-CUSA01363_01.09_2.shn <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA01363/shn/CUSA01363_01.00.shn" target="_blank">CUSA01363_01.00.shn</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA01363/shn/CUSA01363_01.09.shn" target="_blank">CUSA01363_01.09.shn</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA01363/shn/CUSA01363_01.09_2.shn" target="_blank">CUSA01363_01.09_2.shn</a> <br />
 
 **Japan**: <br />
-CUSA03014_01.00.shn <br />
-CUSA03014_01.09.shn <br />
-CUSA03014_01.09_2.shn <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA03014/shn/CUSA03014_01.00.shn" target="_blank">CUSA03014_01.00.shn</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA03014/shn/CUSA03014_01.09.shn" target="_blank">CUSA03014_01.09.shn</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA03014/shn/CUSA03014_01.09_2.shn" target="_blank">CUSA03014_01.09_2.shn</a> <br />
 
 **Europe**: <br />
-CUSA03173_01.00.shn <br />
-CUSA03173_01.09.shn <br />
-CUSA03173_01.09_2.shn <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA03173/shn/CUSA03173_01.00.shn" target="_blank">CUSA03173_01.00.shn</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA03173/shn/CUSA03173_01.09.shn" target="_blank">CUSA03173_01.09.shn</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA03173/shn/CUSA03173_01.09_2.shn" target="_blank">CUSA03173_01.09_2.shn</a> <br />
 
 \################################################################<br />
 ```/data/GoldHEN/cheats/json:``` <br />
 **Australia**: <br />
-CUSA00207_01.00.json <br />
-CUSA00207_01.09.json <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00207/json/CUSA00207_01.00.json" target="_blank">CUSA00207_01.00.json</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00207/json/CUSA00207_01.09.json" target="_blank">CUSA00207_01.09.json</a> <br />
 
 **United Kingdom**: <br />
-CUSA00208_01.00.json <br />
-CUSA00208_01.09.json <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00208/json/CUSA00208_01.00.json" target="_blank">CUSA00208_01.00.json</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00208/json/CUSA00208_01.09.json" target="_blank">CUSA00208_01.09.json</a> <br />
 
 **USA**: <br />
-CUSA00900_01.00.json <br />
-CUSA00900_01.09.json <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00900/json/CUSA00900_01.00.json" target="_blank">CUSA00900_01.00.json</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00900/json/CUSA00900_01.09.json" target="_blank">CUSA00900_01.09.json</a> <br />
 
 **Asia**: <br />
-CUSA01363_01.00.json <br />
-CUSA01363_01.09.json <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA01363/json/CUSA01363_01.00.json" target="_blank">CUSA01363_01.00.json</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA01363/json/CUSA01363_01.09.json" target="_blank">CUSA01363_01.09.json</a> <br />
 
 **Japan**: <br />
-CUSA03014_01.00.json <br />
-CUSA03014_01.09.json <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA03014/json/CUSA03014_01.00.json" target="_blank">CUSA03014_01.00.json</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA03014/json/CUSA03014_01.09.json" target="_blank">CUSA03014_01.09.json</a> <br />
 
 **Europe**: <br />
-CUSA03173_01.00.json <br />
-CUSA03173_01.09.json <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA03173/json/CUSA03173_01.00.json" target="_blank">CUSA03173_01.00.json</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA03173/json/CUSA03173_01.09.json" target="_blank">CUSA03173_01.09.json</a> <br />
 
 \################################################################ <br />
 ```/data/GoldHEN/patches/xml:``` <br />
