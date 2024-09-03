@@ -27,14 +27,14 @@ FILEZILLA > IP of Playstation 4 > PORT 2121
 \################################################################ <br />
 ```/data/GoldHEN/cheats/shn:``` <br />
 **Australia**: <br />
-CUSA00207_01.00.shn <br />
-CUSA00207_01.09.shn <br />
-CUSA00207_01.09_2.shn <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00207/shn/CUSA00207_01.00.shn" target="_blank">CUSA00207_01.00.shn</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00207/shn/CUSA00207_01.09.shn" target="_blank">CUSA00207_01.09.shn</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00207/shn/CUSA00207_01.09_2.shn" target="_blank">CUSA00207_01.09_2.shn</a> <br />
 
 **United Kingdom**: <br />
-CUSA00208_01.00.shn <br />
-CUSA00208_01.09.shn <br />
-CUSA00208_01.09_2.shn <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00208/shn/CUSA00208_01.00.shn" target="_blank">CUSA00208_01.00.shn</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00208/shn/CUSA00208_01.09.shn" target="_blank">CUSA00208_01.09.shn</a> <br />
+<a href="https://github.com/Encapsulate/PS4BloodborneCheatManager/blob/main/CUSA00208/shn/CUSA00208_01.09_2.shn" target="_blank">CUSA00208_01.09_2.shn</a> <br />
 
 **USA**: <br />
 CUSA00900_01.00.shn <br />
