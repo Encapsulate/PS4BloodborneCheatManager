@@ -11,7 +11,7 @@ CUSA03014 - Japan (The Old Hunters Edition) <br />
 CUSA03173 - EUROPE (GOTY) <br />
 
 \[**TUTORIAL**] <br />
-RUN JAILBREAK... [KMEPS4](https://kmeps4.site/psfree900m/index.html) <br />
+RUN JAILBREAK... <a href="https://kmeps4.site/psfree900m/index.html" target="_blank">KMEPS4</a> <br />
 RUN GOLDHEN... GoldHEN (v2.4b16.2 (Latest)) - By SiSTRo <br />
 
 MAKE SURE YOU HAVE BLOODBORNE INSTALLED <br />
