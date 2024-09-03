@@ -1,7 +1,7 @@
-# PS4BloodborneCheatManagerforGoldhen
+## PS4BloodborneCheatManagerforGoldhen
 
-# All Bloodborne Versions for CheatManager
-## (Copied from CUSA03173's, credits below)
+## All Bloodborne Versions for CheatManager
+### (Copied from CUSA03173's, credits below)
 
 CUSA00207 - Australia
 CUSA00208 - United Kingdom
