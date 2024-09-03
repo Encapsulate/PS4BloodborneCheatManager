@@ -25,7 +25,7 @@ FILEZILLA > IP of Playstation 4 > PORT 2121
 
 **Put the files in the according directories:** <br />
 \################################################################ <br />
-```### /data/GoldHEN/cheats/shn:``` <br />
+```/data/GoldHEN/cheats/shn:``` <br />
 **Australia**: <br />
 CUSA00207_01.00.shn <br />
 CUSA00207_01.09.shn <br />
@@ -56,8 +56,8 @@ CUSA03173_01.00.shn <br />
 CUSA03173_01.09.shn <br />
 CUSA03173_01.09_2.shn <br />
 
-\################################################################
-```### /data/GoldHEN/cheats/json:``` <br />
+\################################################################<br />
+```/data/GoldHEN/cheats/json:``` <br />
 **Australia**: <br />
 CUSA00207_01.00.json <br />
 CUSA00207_01.09.json <br />
