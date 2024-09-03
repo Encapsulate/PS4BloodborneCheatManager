@@ -3,14 +3,14 @@
 ## All Bloodborne Versions for CheatManager
 ### (Copied from CUSA03173's, credits below)
 
-CUSA00207 - Australia
-CUSA00208 - United Kingdom
-CUSA00900 - USA
-CUSA01363 - Asia
-CUSA03014 - Japan (The Old Hunters Edition)
-CUSA03173 - EUROPE (GOTY)
+CUSA00207 - Australia <br />
+CUSA00208 - United Kingdom <br />
+CUSA00900 - USA <br />
+CUSA01363 - Asia <br />
+CUSA03014 - Japan (The Old Hunters Edition) <br />
+CUSA03173 - EUROPE (GOTY) <br />
 
-\[**TUTORIAL**]
+\[**TUTORIAL**] <br />
 RUN JAILBREAK... https://kmeps4.site/psfree900m/index.html
 RUN GOLDHEN... GoldHEN (v2.4b16.2 (Latest)) - By SiSTRo
 
