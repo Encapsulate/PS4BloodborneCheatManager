@@ -11,11 +11,11 @@ CUSA03014 - Japan (The Old Hunters Edition) <br />
 CUSA03173 - EUROPE (GOTY) <br />
 
 \[**TUTORIAL**] <br />
-RUN JAILBREAK... [KMEPS4](https://kmeps4.site/psfree900m/index.html){:target="_blank" rel="noopener"} <br />
+RUN JAILBREAK... <a href="https://kmeps4.site/psfree900m/index.html " target="_blank">KMEPS4</a> <br />
 RUN GOLDHEN... GoldHEN (v2.4b16.2 (Latest)) - By SiSTRo <br />
 
 MAKE SURE YOU HAVE BLOODBORNE INSTALLED <br />
-MAKE SURE YOU HAVE [CHEATMANAGER INSTALLED](https://github.com/GoldHEN/GoldHEN_Cheat_Manager){:target="_blank" rel="noopener"} <br />
+MAKE SURE YOU HAVE <a href="https://github.com/GoldHEN/GoldHEN_Cheat_Manager" target="_blank">CHEATMANAGER INSTALLED</a> <br />
 >> Run Cheat Manager and make sure you UPDATE FILES FROM SERVER (cheats & patches) <br />
 ```
 GOLDHEN > SERVERS SETTINGS > ENABLE FTP SERVER: 
